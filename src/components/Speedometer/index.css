@@ -1,0 +1,47 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+.bg-container {
+  background-color: #07080c;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 20px;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.p1 {
+  color: #ffffff;
+  font-size: 13px;
+}
+
+.p2 {
+  color: #cbd5e1;
+  font-size: 8px;
+}
+
+.button1 {
+  font-size: 8px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  padding: 5px;
+  cursor: point;
+  border-radius: 4px;
+  margin-right: 20px;
+}
+
+.button2 {
+  font-size: 8px;
+  background-color: transparent;
+  color: #94a3b8;
+  border: 2px #94a3b8 solid;
+  padding: 5px;
+  cursor: point;
+  border-radius: 4px;
+}
